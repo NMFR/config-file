@@ -1,0 +1,20 @@
+{
+  "name": "config-file",
+  "version": "0.0.0",
+  "author": "Nuno Rodrigues",
+  "description": "A configuration object that loads settings from a file.",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "main": "index.js",
+  "homepage": "http://github.com/NMFR/config-file",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/NMFR/config-file.git"
+  },
+  "keywords": [
+    "config",
+    "file"
+  ],
+  "license": "MIT"
+}
